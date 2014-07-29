@@ -239,7 +239,7 @@ blockquote:after{position:absolute;bottom:10px;right:10px;content:url(http://1.b
 #blog-pager-newer-link a, #blog-pager-older-link a{&#160;&#160;&#160;&#160;color:#FFFFFF;&#160;&#160;&#160;&#160;display:block;&#160;&#160;&#160;&#160;height:30px;}
 #blog-pager-newer-link:hover, #blog-pager-older-link:hover{&#160;&#160;&#160;&#160;opacity:0.8;&#160;&#160;&#160;&#160;filter:alpha(opacity=80);&#160;&#160;&#160;&#160;-ms-filter:"alpha( opacity=80 )";}
 #blog-pager-newer-link a:hover, #blog-pager-older-link a:hover{&#160;&#160;&#160;&#160;text-decoration:none;}
-#PopularPosts1 .item-content{height:79px;overflow:hidden;}
+
 .item-snippet{font-size:12px}
 
 h3.post-title{border-left:8px #d02153 solid;font-family:"ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;font-size:18px;font-weight:bold;margin:5px 0;padding:5px 0 5px 10px;background:#000000;color:#ffffff;border-top:1px #d02153 dotted;border-bottom:1px #d02153 dotted;border-right:1px #d02153 dotted;box-shadow:1px 2px 30px rgba(0, 0, 0, 0.4) , inset 0 0 10px rgba(0, 0, 0, 0.1);}
