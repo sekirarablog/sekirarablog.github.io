@@ -243,7 +243,7 @@ blockquote:after{position:absolute;bottom:10px;right:10px;content:url(http://1.b
 
 .item-snippet{font-size:12px}
 
-h3.post-title{border-left:8px #d02153 solid;font-family:"ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;font-size:18px;font-weight:bold;margin:5px 0;padding:5px 0 5px 10px;color:white;background:#000;text-shadow: 5px 5px 0 rgba(104, 63, 63, 1);border-top:1px #d02153 dotted;border-bottom:1px #d02153 dotted;border-right:1px #d02153 dotted;box-shadow:1px 2px 30px rgba(0, 0, 0, 0.4) , inset 0 0 10px rgba(0, 0, 0, 0.1);}
+h3.post-title{border-left:8px #d02153 solid;font-family:"ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;font-size:18px;font-weight:bold;margin:5px 0;padding:5px 0 5px 10px;color:white;background:#000;text-shadow: 2px 2px 3px #eca614;border-top:1px #d02153 dotted;border-bottom:1px #d02153 dotted;border-right:1px #d02153 dotted;box-shadow:1px 2px 30px rgba(0, 0, 0, 0.4) , inset 0 0 10px rgba(0, 0, 0, 0.1);}
 
 
 h2{padding:3px;border-left:3px solid #d02153;font-size:18px;width:auto;height:auto;background:#000;color:#fff;padding-left:10px;margin:5px 0px 5px;color:white;font-family:"ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
