@@ -36,7 +36,7 @@ p.description span {font: 20px bold "ヒラギノ角ゴ Pro W3", "meiryo","メ�
 .post h3 a, .post h3 { color: #faea0d; background-color: #000; text-decoration: none; font-size: 18px; line-height: 25px;}
 .post h3 a:hover { color:#c3c3c3; }
 .post-header,  .post-footer {color: #797979}
-.comment-block {background: #eee; padding: 15px}
+.comment-block {padding: 15px}
 span.datetime { font-size: 14px }
 #comments .comment-author {padding-top: 1.5em; border-top: 1px solid #DDD; background-position: 0 1.5em; }
 .avatar-image-container {background: #eee; padding:15px;}
