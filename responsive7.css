@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6 {font-family: "ヒラギノ角ゴ Pro W3", "meiryo","メイリ
 .sidebar h2 {font-size:16px;}
 #header { height: 160px; width: 100%; background: #222; color: #fff; }
 #header-inner {padding:0px;}
-#header h1 a {color:#fff}
+#header h1 a {color:deepskyblue}
 #header h1 a:hover {text-decoration:none}
 p.description span {font: 20px bold "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
 .post-body {font: 14px  "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
