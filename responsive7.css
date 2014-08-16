@@ -44,11 +44,11 @@ a:visited{text-decoration:none;color:#ff8900;}
 a:hover{text-decoration:underline;color:#cc6600;}
 h1,h2,h3,h4,h5,h6 {font-family: "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif; }
 .sidebar h2 {font-size:16px;}
-#header { height: 140px; width: 100%; background: #222; color: #fff; }
+#header { height: 110px; width: 100%; background: #222; color: #fff; }
 #header-inner {padding:0px;}
 #header h1 a {color:yellow}
 #header h1 a:hover {text-decoration:none}
-p.description span {font: 20px bold "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
+p.description span {font: 14px bold "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
 .post-body {font: 14px  "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
 .post, .sidebar .widget { padding: 15px; border-bottom: 0px solid #DDD; }
 .post h3 a, .post h3 { color: #faea0d; background-color: #000; text-decoration: none; font-size: 18px; line-height: 25px;}
