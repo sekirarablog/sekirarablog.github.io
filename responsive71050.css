@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6 {font-family: "ヒラギノ角ゴ Pro W3", "meiryo","メイリ
 #header h1 a:hover {text-decoration:none}
 p.description span {font: 14px bold "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
 .post-body {font: 14px  "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif;}
-.post, .sidebar .widget { padding: 3px; border-bottom: 0px solid #DDD; }
+.post, .sidebar .widget { padding: 4px; border-bottom: 0px solid #DDD; }
 .post h3 a, .post h3 { color: #faea0d; background-color: #000; text-decoration: none; font-size: 18px; line-height: 25px;}
 .post h3 a:hover { color:#c3c3c3; }
 .post-header,  .post-footer {color: #797979}
