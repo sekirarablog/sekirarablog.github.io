@@ -389,3 +389,15 @@ list-style: none;}
 .syntaxhighlighter .color2 a{color:#FFFFFF !important;}
 .syntaxhighlighter .color3,
 .syntaxhighlighter .color3 a{color:#FFAA3E !important;}
+
+<style id="style-background-image">
+	body {
+		background: url(http://nge.jp/wp-content/uploads/2014/12/mountain.jpg) repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		-ms-background-size: cover;
+		background-size: cover;
+		background-color: #444444;
+	}
+</style>
