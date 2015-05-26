@@ -43,7 +43,7 @@ a:visited{text-decoration:none;color:#ff8900;}
 a:hover{text-decoration:underline;color:#cc6600;}
 h1,h2,h3,h4,h5,h6 {font-family: "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif; }
 .sidebar h2 {font-size:16px;}
-#header { height: 110px; width: 100%; background: #222; color: #fff; }
+#header { height: 110px; width: 100%; background: #D0A5E3; color: #fff; }
 #header-inner {padding:0px;}
 #header h1 a {color:yellow}
 #header h1 a:hover {text-decoration:none}
