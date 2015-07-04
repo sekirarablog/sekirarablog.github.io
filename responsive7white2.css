@@ -38,8 +38,8 @@ body { background: #000; font: 400 14px/1.6 "ヒラギノ角ゴ Pro W3", "meiryo
 }
 ul,ol {list-style: none; }
 ::selection { background: #222; color: white; }
-a:link{text-decoration:none;color:#0053F9;}
-a:visited{text-decoration:none;color:#0053F9;}
+a:link{text-decoration:none;color:#ff8900;}
+a:visited{text-decoration:none;color:#ff8900;}
 a:hover{text-decoration:underline;color:#cc6600;}
 h1,h2,h3,h4,h5,h6 {font-family: "ヒラギノ角ゴ Pro W3", "meiryo","メイリオ", "ＭＳ Ｐゴシック", Sans-serif; }
 .sidebar h2 {font-size:16px;}
