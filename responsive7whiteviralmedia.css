@@ -471,7 +471,6 @@ list-style: none;}
  background-color: #00ace1;
  margin-top: 15px;
  padding: 12px 0;
- color: ##fff;
  }
  .p-asideFollowUs__twitter__cont {
  text-align: center;
@@ -485,11 +484,10 @@ list-style: none;}
  margin: 0 2px;
  }
  /*ここから応用*/
- .p-entry__tw-follow__item {
+ .p-asideFollowUs__twitter__item {
     display: inline-block;
     vertical-align: middle;
-    margin: 10 10px;
-    font-size: 16px;
+    margin: 0 2px;
     color: #fff;
 }
 /*ここまで*/
