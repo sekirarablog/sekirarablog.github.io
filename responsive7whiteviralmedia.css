@@ -590,3 +590,26 @@ list-style: none;}
     color: #fff;
 }
 /*応用ここまで*/
+/* LINE@　友だちボタン*/
+#line_atto a {
+    background:#25af00;
+    box-shadow:0 5px 0 #219900;
+    font-size:95%;
+    position:relative;
+    display:block;
+    padding:10px;
+    color:#fff;
+    border-radius:6px;
+    text-align:center;
+    text-decoration: none;
+    font-weight: bold;
+    width:280px;
+    margin:5% 0% 5% 0%;
+}
+#line_atto a:hover {
+    background:#219900;
+    -webkit-transform: translate3d(0px, 5px, 1px);
+    -moz-transform: translate3d(0px, 5px, 1px);
+    transform: translate3d(0px, 5px, 1px);
+    box-shadow:none;
+}
