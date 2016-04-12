@@ -604,6 +604,7 @@ list-style: none;}
     text-decoration: none;
     font-weight: bold;
     width:280px;
+    margin-bottom: 15px;
 }
 #line_atto a:hover {
     background:#219900;
