@@ -483,6 +483,16 @@ list-style: none;}
  vertical-align: middle;
  margin: 0 2px;
  }
+ /*ここから応用*/
+ .p-entry__tw-follow__item {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10 10px;
+    font-size: 16px;
+    color: #fff;
+}
+/*ここまで*/
+
  /*記事がよかったら、いいねPC*/
  .p-entry__push {
  margin-bottom: 20px;
